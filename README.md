@@ -2,15 +2,15 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [“Inkwell” – Where ideas come alive on every page.] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Eagleeyes]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Mithra P Suriakanth] - [Adi Shankara Institute of Engineering and Technology]
+- Member 2: [Mitushi Manoj] - [Adi Shankara Institute of Engineering and Technology]
 
 ### Hosted Project Link
 [mention your project hosted link here]
